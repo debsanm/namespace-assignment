@@ -30,7 +30,9 @@
  
  b) Create a function print() that displays these values.
  
- Part 2: The Main Logic. In your main() function, perform the following tasks:
+ # Part 2: 
+ 
+ The Main Logic. In your main() function, perform the following tasks:
  
  Direct Access: Use the scope resolution operator (::) to create one Solar::Point and one DeepSpace::Point.
  
@@ -38,9 +40,4 @@
  
  Namespace Aliasing: Create an alias for DeepSpace called DS. Use this alias to call the DeepSpace version of print().
  
- # Part 3: 
- 
- The "Collision" Challenge
- 
- Try to add using namespace Solar; and using namespace DeepSpace; at the same time at the top of your main function.
  
